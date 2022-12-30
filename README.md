@@ -1,9 +1,6 @@
 ### Hi there 👋
+I'm Bisma Reza Ferdian
 
-<!--
-**Bismarezaferdian/Bismarezaferdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - :technologist: I’m interested in Frontend Development with ReactJs
 - 🌱 I’m currently learning ExpressJs
